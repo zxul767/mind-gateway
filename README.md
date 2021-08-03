@@ -7,6 +7,7 @@ Curated Resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
 3. [Machine Learning](#machine-learning)
    + 🥇 📺 📖 [Learning from Data](#learning-from-data)
    + 📰 [Papers with Code](#papers-with-code)
+   + 📺 [Heroes of Deep learning](#heroes-of-deep-learning)
 5. [Philosophy of Mind](#philosophy-of-mind)
    + 🥇 📖 [Gödel, Escher, Bach -- an Eternal Golden Braid](#gödel-escher-bach----an-eternal-golden-braid)
 
@@ -26,6 +27,11 @@ An introduction to ML with a strong focus on providing a conceptual and theoreti
 📰 by [Facebook AI Research](https://ai.facebook.com/) (2018)
 
 Papers with Code was created with the simple idea of helping the community track newly published machine learning papers with source code and quickly understand the current state of the art. It organizes a lot of the papers published in the field, providing summaries and related resources. Although it's sponsored by Facebook AI Research, it is an open community project.
+
+#### [Heroes of Deep Learning](https://youtube.com/playlist?list=PLkDaE6sCZn6FcbHlDzbVzf3TVgxzxK7lr)
+📺 by [Deep Learning AI](https://www.deeplearning.ai/) (2017)
+
+A series of relatively short interviews by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) with various leading researchers in the field of machine learning. This is not really a technical resource, but I think it's interesting to hear the stories on how they got started, what ideas they've pursued and are currently pursuing, as well as their thoughts on current AI/ML trends and research.
 
 ## Philosophy of Mind
 #### [Gödel, Escher, Bach -- an Eternal Golden Braid](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) 
