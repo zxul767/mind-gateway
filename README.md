@@ -4,10 +4,11 @@ Curated Resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
 ## Contents
 1. [Artificial Intelligence](#artificial-intelligence)
    + 📖 [On Intelligence](#on-intelligence)
-3. Machine Learning
-   + 📖 📺 [Learning from Data](#learning-from-data)
-5. Philosophy of Mind
-   + 📖 [Gödel, Escher, Bach -- an Eternal Golden Braid](#gödel-escher-bach----an-eternal-golden-braid)
+3. [Machine Learning](#machine-learning)
+   + 🥇 📺 📖 [Learning from Data](#learning-from-data)
+   + 📰 [Papers with Code](#papers-with-code)
+5. [Philosophy of Mind](#philosophy-of-mind)
+   + 🥇 📖 [Gödel, Escher, Bach -- an Eternal Golden Braid](#gödel-escher-bach----an-eternal-golden-braid)
 
 ## Artificial Intelligence
 #### [On Intelligence](https://en.wikipedia.org/wiki/On_Intelligence) 
@@ -20,6 +21,11 @@ The book explains why previous attempts at understanding intelligence and buildi
 🥇 📺 📖 by [Yaser Abu-Mostafa](https://en.wikipedia.org/wiki/Yaser_Abu-Mostafa) (2012)
 
 An introduction to ML with a strong focus on providing a conceptual and theoretical framework for the subject. It's an excellent complement to other courses which provide practical tools for machine learning but fail to explain in sufficient detail the conceptual underpinnings.
+
+#### [Papers with Code](https://paperswithcode.com/)
+📰 by [Facebook AI Research](https://ai.facebook.com/) (2018)
+
+Papers with Code was created with the simple idea of helping the community track newly published machine learning papers with source code and quickly understand the current state of the art. It organizes a lot of the papers published in the field, providing summaries and related resources. Although it's sponsored by Facebook AI Research, it is an open community project.
 
 ## Philosophy of Mind
 #### [Gödel, Escher, Bach -- an Eternal Golden Braid](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) 
