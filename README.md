@@ -41,7 +41,7 @@ Papers with Code was created with the simple idea of helping the community track
 #### [Papers Daily](https://papers.labml.ai/papers/daily)
 📰 by [labml.ai](https://labml.ai/) (2020)
 
-Papers Daily tracks recent and trending research papers in machine learning, aggregating comments from social media platforms where people are talking about each paper, including Twitter, Reddit, and HackerNews.
+Papers Daily tracks recent and trending research papers in machine learning, aggregating comments from social media platforms (including Twitter, Reddit, and HackerNews) where people are talking about each paper.
 
 ## Deep Learning
 #### [Deep Learning for Coders](https://course.fast.ai/)
