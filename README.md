@@ -8,6 +8,7 @@ Curated Resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
 2. [General Machine Learning](#general-machine-learning)
    + 💯 📺 📖 [Learning from Data](#learning-from-data)
    + 📰 [Papers with Code](#papers-with-code)
+   + 📰 [Papers Daily](#papers-daily)
 3. [Deep Learning](#deep-learning)
    + 💯 📺 📖 [Deep Learning for Coders](#deep-learning-for-coders)
    + 🧔 📺 [Heroes of Deep learning](#heroes-of-deep-learning)
@@ -36,6 +37,11 @@ An introduction to ML with a strong focus on providing a conceptual and theoreti
 📰 by [Facebook AI Research](https://ai.facebook.com/) (2018)
 
 Papers with Code was created with the simple idea of helping the community track newly published machine learning papers with source code and quickly understand the current state of the art. It organizes a lot of the papers published in the field, providing summaries and related resources. Although it's sponsored by Facebook AI Research, it is an open community project.
+
+#### [Papers Daily](https://papers.labml.ai/papers/daily)
+📰 by [labml.ai](https://labml.ai/) (2020)
+
+Papers Daily tracks recent and trending research papers in machine learning, aggregating comments from social media platforms where people are talking about each paper, including Twitter, Reddit, and HackerNews.
 
 ## Deep Learning
 #### [Deep Learning for Coders](https://course.fast.ai/)
