@@ -13,6 +13,7 @@ Curated Resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
    + 🧔 📺 [Heroes of Deep learning](#heroes-of-deep-learning)
 4. [Philosophy of Mind](#philosophy-of-mind)
    + 💯 📖 [Gödel, Escher, Bach -- an Eternal Golden Braid](#gödel-escher-bach----an-eternal-golden-braid)
+   + 📖 [The Society of Mind](#the-society-of-mind)
 
 ## Artificial Intelligence
 #### [On Intelligence](https://en.wikipedia.org/wiki/On_Intelligence) 
@@ -52,3 +53,8 @@ A series of relatively short interviews by [Andrew Ng](https://en.wikipedia.org/
 💯 📖 by [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter) (1979)
 
 The book discusses how systems can acquire meaningful context despite being made of "meaningless" elements. It also discusses self-reference and formal rules, isomorphism, what it means to communicate, how knowledge can be represented and stored, the methods and limitations of symbolic representation, and even the fundamental notion of "meaning" itself.
+
+#### [The Society of Mind](https://en.wikipedia.org/wiki/Society_of_Mind)
+📖 by [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky) (1986)
+
+The book presents a theory of how the mind may work, focusing on the conceptual level and without making reference to the underlying substrate (i.e., neurons). The author develops theories about how processes such as language, memory, and learning work, and also covers concepts such as consciousness, the sense of self, and free will.
