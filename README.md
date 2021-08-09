@@ -15,6 +15,7 @@ Curated Resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
 4. [Philosophy of Mind](#philosophy-of-mind)
    + 💯 📖 [Gödel, Escher, Bach -- an Eternal Golden Braid](#gödel-escher-bach----an-eternal-golden-braid)
    + 📖 [The Society of Mind](#the-society-of-mind)
+   + 📖 [I Am a Strange Loop](#i-am-a-strange-loop)
 
 ## Artificial Intelligence
 #### [On Intelligence](https://en.wikipedia.org/wiki/On_Intelligence) 
@@ -64,3 +65,8 @@ The book discusses how systems can acquire meaningful context despite being made
 📖 by [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky) (1986)
 
 The book presents a theory of how the mind may work, focusing on the conceptual level and without making reference to the underlying substrate (i.e., neurons). The author develops theories about how processes such as language, memory, and learning work, and also covers concepts such as consciousness, the sense of self, and free will.
+
+#### [I Am a Strange Loop](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop)
+📖 by [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter) (2007)
+
+Although "Gödel, Escher, Bach" (a.k.a. GEB) enjoyed great success--having even won a Pulitzer price--and inspired many future researchers on AI, ML, complex systems, etc., the author lamented in later years that many people seemed to have missed what he considered the central theme in his book. Hofstadter sought to remedy that in this new book by focusing on and expounding on that central theme, which he summarized as "GEB is a very personal attempt to say how it is that animate beings can come out of inanimate matter. What is a self, and how can a self come out of stuff that is as selfless as a stone or a puddle?".
