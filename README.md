@@ -4,6 +4,7 @@ Curated Resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
 ## Contents
 1. [Artificial Intelligence](#artificial-intelligence)
    + 📖 [On Intelligence](#on-intelligence)
+   + 💯 📺 [MIT Artificial Intelligence](#mit-artificial-intelligence)
 2. [General Machine Learning](#general-machine-learning)
    + 💯 📺 📖 [Learning from Data](#learning-from-data)
    + 📰 [Papers with Code](#papers-with-code)
@@ -18,6 +19,11 @@ Curated Resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
 📖 by [Jeff Hawkins](https://en.wikipedia.org/wiki/Jeff_Hawkins) (2005)
 
 The book explains why previous attempts at understanding intelligence and building intelligent machines have failed. It then introduces and develops the core idea of a proposed theory for how the human neocortex generates intelligent behavior, which the author calls the memory-prediction framework.
+
+#### [MIT Artificial Intelligence](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
+💯 📺 by [Patrick Winston](https://en.wikipedia.org/wiki/Patrick_Winston) (2010)
+
+A series of lectures on general AI concepts, including reasoning, problem solving, search in problem spaces, cognitive architectures, probabilistic inference, among others. Even though the topics covered can be found in other similar books and courses, what makes this course special is Patrick's clear exposition, and his particular focus on key ideas and insights in each topic.
 
 ## General Machine Learning
 #### [Learning from Data](https://work.caltech.edu/telecourse) 
