@@ -7,6 +7,7 @@ Curated Resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
    + 💯 📺 [MIT Artificial Intelligence](#mit-artificial-intelligence)
 2. [General Machine Learning](#general-machine-learning)
    + 💯 📺 📖 [Learning from Data](#learning-from-data)
+   + 📖 [Mathematics for Machine Learning](#mathematics-for-machine-learning)
    + 📰 [Papers with Code](#papers-with-code)
    + 📰 [Papers Daily](#papers-daily)
 3. [Deep Learning](#deep-learning)
@@ -33,6 +34,11 @@ A series of lectures on general AI concepts, including reasoning, problem solvin
 💯 📺 📖 by [Yaser Abu-Mostafa](https://en.wikipedia.org/wiki/Yaser_Abu-Mostafa) (2012)
 
 An introduction to ML with a strong focus on providing a conceptual and theoretical framework for the subject. It's an excellent complement to other courses which provide practical tools for machine learning but fail to explain in sufficient detail the conceptual underpinnings.
+
+#### [Mathematics for Machine Learning](https://mml-book.github.io/)
+📖 by [Marc Peter Deisenroth](https://deisenroth.cc/), [A. Aldo Faisal](https://www.imperial.ac.uk/people/a.faisal), and [Cheng Soon Ong](http://www.ong-home.my/) (2020)
+
+An introduction to the mathematical tools most commonly used in ML/AI. Though it's possible to understand a lot of things in ML/AI without deep knowledge in mathematics, I believe that a solid understanding of these mathematical tools can be very valuable for any practitioner, and indispensable for researchers looking to build their own models or improve the state of the art. 
 
 #### [Papers with Code](https://paperswithcode.com/)
 📰 by [Facebook AI Research](https://ai.facebook.com/) (2018)
