@@ -1,5 +1,5 @@
 # Mind Gateway
-Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philosophy of Mind (PoM), and related topics
+Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philosophy of Mind (PoM), and related topics.
 
 ## Contents
 1. [Artificial Intelligence](#artificial-intelligence)
@@ -9,6 +9,7 @@ Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
 2. [General Machine Learning](#general-machine-learning)
    + 💯 📺 📖 [Learning from Data](#learning-from-data) `intermediate`
    + 📖 [Mathematics for Machine Learning](#mathematics-for-machine-learning) `intermediate`
+   + 📖 [An Introduction to Statistical Learning](#an-introduction-to-statistical-learning) `intermediate`
    + 📰 [Papers with Code](#papers-with-code)
    + 📰 [Papers Daily](#papers-daily)
 3. [Deep Learning](#deep-learning)
@@ -45,6 +46,11 @@ An introduction to ML with a strong focus on providing a conceptual and theoreti
 📖 by [Marc Peter Deisenroth](https://deisenroth.cc/), [A. Aldo Faisal](https://www.imperial.ac.uk/people/a.faisal), and [Cheng Soon Ong](http://www.ong-home.my/) (2020)
 
 An introduction to the mathematical tools most commonly used in ML/AI. Though it's possible to understand a lot of things in ML/AI without deep knowledge in mathematics, I believe that a solid understanding of these mathematical tools can be very valuable for any practitioner, and indispensable for researchers looking to build their own models or improve the state of the art. 
+
+#### [An Introduction to Statistical Learning](https://www.statlearning.com/)
+📖 by [Gareth James](http://faculty.marshall.usc.edu/gareth-james/), [Daniela Witten](https://www.danielawitten.com/), [Travor Hastie](https://web.stanford.edu/~hastie/), and [Rob Tibshirani](http://statweb.stanford.edu/~tibs/) (2021)
+
+The book provides an accessible overview of the field of statistical learning, an essential toolset for making sense of the vast and complex data sets that have emerged in various fields of science. It presents some of the most important modeling and prediction techniques, along with relevant applications. Topics include linear regression, classification, resampling methods, shrinkage approaches, tree-based methods, support vector machines, clustering, and more.
 
 #### [Papers with Code](https://paperswithcode.com/)
 📰 by [Facebook AI Research](https://ai.facebook.com/) (2018)
