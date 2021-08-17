@@ -1,10 +1,11 @@
 # Mind Gateway
-Curated Resources on Artifical Intelligence (AI), Machine Learning (ML), Philosophy of Mind (PoM), and related topics
+Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philosophy of Mind (PoM), and related topics
 
 ## Contents
 1. [Artificial Intelligence](#artificial-intelligence)
    + 📖 [On Intelligence](#on-intelligence) `layman`
    + 💯 📺 [MIT Artificial Intelligence](#mit-artificial-intelligence) `beginner`
+   + 📺 [The AI Podcast](#the-ai-podcast) `layman`
 2. [General Machine Learning](#general-machine-learning)
    + 💯 📺 📖 [Learning from Data](#learning-from-data) `intermediate`
    + 📖 [Mathematics for Machine Learning](#mathematics-for-machine-learning) `intermediate`
@@ -28,6 +29,11 @@ The book explains why previous attempts at understanding intelligence and buildi
 💯 📺 by [Patrick Winston](https://en.wikipedia.org/wiki/Patrick_Winston) (2010)
 
 A series of lectures on general AI concepts, including reasoning, problem solving, search in problem spaces, cognitive architectures, probabilistic inference, among others. Even though the topics covered can be found in other similar books and courses, what makes this course special is Patrick's clear exposition, and his particular focus on key ideas and insights in each topic.
+
+#### [The AI Podcast](https://lexfridman.com/podcast/)
+📺 by [Lex Fridman](https://lexfridman.com/) (2015)
+
+This podcast started as a series of conversations with some renowned AI/ML researchers (each episode is typically 2 hours long), but over time has expanded to related (and sometimes not so related) topics and themes. Guests include well-known physicists, mathematicians, economists, neuroscientists, etc. The content is not very technical, but from time to time the conversations can be hard to follow unless one has some prerequisite knowledge.
 
 ## General Machine Learning
 #### [Learning from Data](https://work.caltech.edu/telecourse) 
