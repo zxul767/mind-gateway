@@ -3,20 +3,20 @@ Curated Resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
 
 ## Contents
 1. [Artificial Intelligence](#artificial-intelligence)
-   + 📖 [On Intelligence](#on-intelligence)
-   + 💯 📺 [MIT Artificial Intelligence](#mit-artificial-intelligence)
+   + 📖 [On Intelligence](#on-intelligence) `layman`
+   + 💯 📺 [MIT Artificial Intelligence](#mit-artificial-intelligence) `beginner`
 2. [General Machine Learning](#general-machine-learning)
-   + 💯 📺 📖 [Learning from Data](#learning-from-data)
-   + 📖 [Mathematics for Machine Learning](#mathematics-for-machine-learning)
+   + 💯 📺 📖 [Learning from Data](#learning-from-data) `intermediate`
+   + 📖 [Mathematics for Machine Learning](#mathematics-for-machine-learning) `intermediate`
    + 📰 [Papers with Code](#papers-with-code)
    + 📰 [Papers Daily](#papers-daily)
 3. [Deep Learning](#deep-learning)
-   + 💯 📺 📖 [Deep Learning for Coders](#deep-learning-for-coders)
-   + 🧔 📺 [Heroes of Deep learning](#heroes-of-deep-learning)
+   + 💯 📺 📖 [Deep Learning for Coders](#deep-learning-for-coders) `beginner`
+   + 🧔 📺 [Heroes of Deep learning](#heroes-of-deep-learning) `intermediate`
 4. [Philosophy of Mind](#philosophy-of-mind)
-   + 💯 📖 [Gödel, Escher, Bach -- an Eternal Golden Braid](#gödel-escher-bach----an-eternal-golden-braid)
-   + 📖 [The Society of Mind](#the-society-of-mind)
-   + 📖 [I Am a Strange Loop](#i-am-a-strange-loop)
+   + 💯 📖 [Gödel, Escher, Bach -- an Eternal Golden Braid](#gödel-escher-bach----an-eternal-golden-braid) `layman`
+   + 📖 [The Society of Mind](#the-society-of-mind) `layman`
+   + 📖 [I Am a Strange Loop](#i-am-a-strange-loop) `layman`
 
 ## Artificial Intelligence
 #### [On Intelligence](https://en.wikipedia.org/wiki/On_Intelligence) 
