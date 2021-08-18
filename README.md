@@ -3,9 +3,9 @@ Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
 
 ## Contents
 1. [Artificial Intelligence](#artificial-intelligence)
-   + 📖 [On Intelligence](#on-intelligence) `layman`
+   + 📖 [On Intelligence](#on-intelligence) `layperson`
    + 💯 📺 [MIT Artificial Intelligence](#mit-artificial-intelligence) `beginner`
-   + 📺 [The AI Podcast](#the-ai-podcast) `layman`
+   + 📺 [The AI Podcast](#the-ai-podcast) `layperson`
 2. [General Machine Learning](#general-machine-learning)
    + 💯 📺 📖 [Learning from Data](#learning-from-data) `intermediate`
    + 📖 [Mathematics for Machine Learning](#mathematics-for-machine-learning) `intermediate`
@@ -16,9 +16,9 @@ Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
    + 💯 📺 📖 [Deep Learning for Coders](#deep-learning-for-coders) `beginner`
    + 🧔 📺 [Heroes of Deep learning](#heroes-of-deep-learning) `intermediate`
 4. [Philosophy of Mind](#philosophy-of-mind)
-   + 💯 📖 [Gödel, Escher, Bach -- an Eternal Golden Braid](#gödel-escher-bach----an-eternal-golden-braid) `layman`
-   + 📖 [The Society of Mind](#the-society-of-mind) `layman`
-   + 📖 [I Am a Strange Loop](#i-am-a-strange-loop) `layman`
+   + 💯 📖 [Gödel, Escher, Bach -- an Eternal Golden Braid](#gödel-escher-bach----an-eternal-golden-braid) `layperson`
+   + 📖 [The Society of Mind](#the-society-of-mind) `layperson`
+   + 📖 [I Am a Strange Loop](#i-am-a-strange-loop) `layperson`
 
 ## Artificial Intelligence
 #### [On Intelligence](https://en.wikipedia.org/wiki/On_Intelligence) 
