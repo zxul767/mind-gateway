@@ -10,6 +10,7 @@ Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
    + 💯 📺 📖 [Learning from Data](#learning-from-data) `intermediate`
    + 📖 [Mathematics for Machine Learning](#mathematics-for-machine-learning) `intermediate`
    + 📖 [An Introduction to Statistical Learning](#an-introduction-to-statistical-learning) `intermediate`
+   + 💯 📺 [Intuitive Machine Learning](#intuitive-machine-learning) `beginner`
    + 📰 [Papers with Code](#papers-with-code)
    + 📰 [Papers Daily](#papers-daily)
 3. [Deep Learning](#deep-learning)
@@ -51,6 +52,11 @@ An introduction to the mathematical tools most commonly used in ML/AI. Though it
 📖 by [Gareth James](http://faculty.marshall.usc.edu/gareth-james/), [Daniela Witten](https://www.danielawitten.com/), [Travor Hastie](https://web.stanford.edu/~hastie/), and [Rob Tibshirani](http://statweb.stanford.edu/~tibs/) (2021)
 
 The book provides an accessible overview of the field of statistical learning, an essential toolset for making sense of the vast and complex data sets that have emerged in various fields of science. It presents some of the most important modeling and prediction techniques, along with relevant applications. Topics include linear regression, classification, resampling methods, shrinkage approaches, tree-based methods, support vector machines, clustering, and more.
+
+#### [Intuitive Machine Learning](https://www.youtube.com/c/IntuitiveMachineLearning)
+📺 by [Intuitive Machine Learning](https://twitter.com/intuitiveml) (2020)
+
+One of the best resources for concise introductions to various topics in ML I've found so far. In just a few minutes, it summarizes topics that other people take half an hour or more to explain. The key to doing this is that the author focuses on key ideas, uses animations to improve visual communication, and omits unnecessary detail for an introduction. Beware you won't necessarily understand a topic deeply after watching a video, but you will have a good conceptual framework so more thorough explanations make absolute sense.
 
 #### [Papers with Code](https://paperswithcode.com/)
 📰 by [Facebook AI Research](https://ai.facebook.com/) (2018)
