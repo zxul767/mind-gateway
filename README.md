@@ -1,6 +1,8 @@
 # Mind Gateway
 Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philosophy of Mind (PoM), and related topics.
 
+This is a test...
+
 ## Contents
 1. [Artificial Intelligence](#artificial-intelligence)
    + 📖 [On Intelligence](#on-intelligence) `layperson`
