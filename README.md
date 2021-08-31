@@ -16,7 +16,9 @@ Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
 3. [Deep Learning](#deep-learning)
    + 💯 📺 📖 [Deep Learning for Coders](#deep-learning-for-coders) `beginner`
    + 🧔 📺 [Heroes of Deep learning](#heroes-of-deep-learning) `intermediate`
-4. [Philosophy of Mind](#philosophy-of-mind)
+4. [Natural Language Processing](#natural-language-processing)
+   + 📺 [A Code-First Introduction to NLP](#a-code-first-introduction-to-nlp) `intermediate` 
+5. [Philosophy of Mind](#philosophy-of-mind)
    + 💯 📖 [Gödel, Escher, Bach -- an Eternal Golden Braid](#gödel-escher-bach----an-eternal-golden-braid) `layperson`
    + 📖 [The Society of Mind](#the-society-of-mind) `layperson`
    + 📖 [I Am a Strange Loop](#i-am-a-strange-loop) `layperson`
@@ -78,6 +80,12 @@ This is a course on Deep Learning that follows a non-traditional approach to the
 🧔 📺 by [Deep Learning AI](https://www.deeplearning.ai/) (2017)
 
 A series of relatively short interviews by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) with various leading researchers in the field of machine learning. This is not really a technical resource, but I think it's interesting to hear the stories on how they got started, what ideas they've pursued and are currently pursuing, as well as their thoughts on current AI/ML trends and research.
+
+## Natural Language Processing
+#### [A Code-First Introduction to NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
+📺 by [Fast AI](https://www.fast.ai/) (2020)
+
+From the creators of [Deep Learning for Coders](https://course.fast.ai/), this course follows the same philosophy of that foundational course. It teaches a blend of traditional NLP topics (including regex, SVD, naive bayes, tokenization) and recent neural network approaches (including RNNs, seq2seq, attention, and the transformer architecture), as well as addressing urgent ethical issues, such as bias and disinformation. Topics can be watched in any order. 
 
 ## Philosophy of Mind
 #### [Gödel, Escher, Bach -- an Eternal Golden Braid](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) 
