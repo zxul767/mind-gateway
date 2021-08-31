@@ -40,6 +40,8 @@ A series of lectures on general AI concepts, including reasoning, problem solvin
 
 This podcast started as a series of conversations with some renowned AI/ML researchers (each episode is typically 2 hours long), but over time has expanded to related (and sometimes not so related) topics and themes. Guests include well-known physicists, mathematicians, economists, neuroscientists, etc. The content is not very technical, but from time to time the conversations can be hard to follow unless one has some prerequisite knowledge.
 
+[🔙 to Contents](#contents)
+
 ## General Machine Learning
 #### [Learning from Data](https://work.caltech.edu/telecourse) 
 💯 📺 📖 by [Yaser Abu-Mostafa](https://en.wikipedia.org/wiki/Yaser_Abu-Mostafa) (2012)
@@ -71,6 +73,8 @@ Papers with Code was created with the simple idea of helping the community track
 
 Papers Daily tracks recent and trending research papers in machine learning, aggregating comments from social media platforms (including Twitter, Reddit, and HackerNews) where people are talking about each paper.
 
+[🔙 to Contents](#contents)
+
 ## Deep Learning
 #### [Deep Learning for Coders](https://course.fast.ai/)
 💯 📺 📖 by [FastAI](https://www.fast.ai/) (2020)
@@ -82,11 +86,15 @@ This is a course on Deep Learning that follows a non-traditional approach to the
 
 A series of relatively short interviews by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) with various leading researchers in the field of machine learning. This is not really a technical resource, but I think it's interesting to hear the stories on how they got started, what ideas they've pursued and are currently pursuing, as well as their thoughts on current AI/ML trends and research.
 
+[🔙 to Contents](#contents)
+
 ## Natural Language Processing
 #### [A Code-First Introduction to NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
 📺 by [Fast AI](https://www.fast.ai/) (2020)
 
 From the creators of [Deep Learning for Coders](https://course.fast.ai/), this course follows the same philosophy of that foundational course. It teaches a blend of traditional NLP topics (including regex, SVD, naive bayes, tokenization) and recent neural network approaches (including RNNs, seq2seq, attention, and the transformer architecture), as well as addressing urgent ethical issues, such as bias and disinformation. Topics can be watched in any order. 
+
+[🔙 to Contents](#contents)
 
 ## Philosophy of Mind
 #### [Gödel, Escher, Bach -- an Eternal Golden Braid](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) 
@@ -108,3 +116,5 @@ Although "Gödel, Escher, Bach" (a.k.a. GEB) enjoyed great success--having even 
 📺 by [Robert Lawrence Kuhn](https://en.wikipedia.org/wiki/Robert_Lawrence_Kuhn) (2020)
 
 A series of interviews on the Cosmos, Consciousness and Meaning. It features leading philosophers and scientists exploring humanity's deepest questions. While its scope is not entirely in the realm of AI/ML or PoM, it does touch upon PoM and neuroscience in many of its episodes (e.g., the interviews with Marvin Minsky on brains and the nature of intelligence are quite interesting.)
+
+[🔙 to Contents](#contents)
