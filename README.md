@@ -22,6 +22,7 @@ Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
    + 💯 📖 [Gödel, Escher, Bach -- an Eternal Golden Braid](#gödel-escher-bach----an-eternal-golden-braid) `layperson`
    + 📖 [The Society of Mind](#the-society-of-mind) `layperson`
    + 📖 [I Am a Strange Loop](#i-am-a-strange-loop) `layperson`
+   + 📺 [Closer to Truth](#closer-to-truth) `layperson`
 
 ## Artificial Intelligence
 #### [On Intelligence](https://en.wikipedia.org/wiki/On_Intelligence) 
@@ -102,3 +103,8 @@ The book presents a theory of how the mind may work, focusing on the conceptual 
 📖 by [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter) (2007)
 
 Although "Gödel, Escher, Bach" (a.k.a. GEB) enjoyed great success--having even won a Pulitzer price--and inspired many future researchers on AI, ML, complex systems, etc., the author lamented in later years that many people seemed to have missed what he considered the central theme in his book. Hofstadter sought to remedy that in this new book by focusing on and expounding on that central theme, which he summarized as _"GEB is a very personal attempt to say how it is that animate beings can come out of inanimate matter. What is a self, and how can a self come out of stuff that is as selfless as a stone or a puddle?"_.
+
+#### [Closer to Truth](https://www.youtube.com/c/CloserToTruthTV/about)
+📺 by [Robert Lawrence Kuhn](https://en.wikipedia.org/wiki/Robert_Lawrence_Kuhn) (2020)
+
+A series of interviews on the Cosmos, Consciousness and Meaning. It features leading philosophers and scientists exploring humanity's deepest questions. While its scope is not entirely in the realm of AI/ML or PoM, it does touch upon PoM and neuroscience in many of its episodes (e.g., the interviews with Marvin Minsky on brains and the nature of intelligence are quite interesting.)
