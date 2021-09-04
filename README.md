@@ -13,7 +13,7 @@ Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
    + 💯 📺 [Intuitive Machine Learning](#intuitive-machine-learning) `beginner`
    + 📰 [Papers with Code](#papers-with-code)
    + 📰 [Papers Daily](#papers-daily)
-   + 💯 📰 [Distill](#distill)
+   + 💯 📰 [Distill](#distill) `intermediate`
 3. [Deep Learning](#deep-learning)
    + 💯 📺 📖 [Deep Learning for Coders](#deep-learning-for-coders) `beginner`
    + 🧔 📺 [Heroes of Deep learning](#heroes-of-deep-learning) `intermediate`
