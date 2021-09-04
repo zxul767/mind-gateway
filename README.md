@@ -13,6 +13,7 @@ Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
    + 💯 📺 [Intuitive Machine Learning](#intuitive-machine-learning) `beginner`
    + 📰 [Papers with Code](#papers-with-code)
    + 📰 [Papers Daily](#papers-daily)
+   + 💯 📰 [Distill](#distill)
 3. [Deep Learning](#deep-learning)
    + 💯 📺 📖 [Deep Learning for Coders](#deep-learning-for-coders) `beginner`
    + 🧔 📺 [Heroes of Deep learning](#heroes-of-deep-learning) `intermediate`
@@ -72,6 +73,11 @@ Papers with Code was created with the simple idea of helping the community track
 📰 by [labml.ai](https://labml.ai/) (2020)
 
 Papers Daily tracks recent and trending research papers in machine learning, aggregating comments from social media platforms (including Twitter, Reddit, and HackerNews) where people are talking about each paper.
+
+#### [Distill](https://distill.pub/)
+💯 📰 by [Chris Olah](https://colah.github.io/), [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html), [Ian Goodfellow](http://www.iangoodfellow.com/) and [others](https://distill.pub/about) (2016)
+
+Distill opens a venue for publications in ML that take advantage of all the resources the web has to offer: interactive visualizations, animations, full color, audio and video. As the creators explain: _"Machine learning will fundamentally change how humans and computers interact. It’s important to make those techniques transparent, so we can understand and safely control how they work. Distill will provide a platform for vividly illustrating these ideas."_ With a strong emphasis on very clear communication, it is an excellent preamble to reading more terse, but often obtuse, literature in ML.
 
 [🔙 to Contents](#contents)
 
