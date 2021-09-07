@@ -16,7 +16,8 @@ Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
    + 💯 📰 [Distill](#distill) `beginner`/`intermediate`
 3. [Deep Learning](#deep-learning)
    + 💯 📺 📖 [Deep Learning for Coders](#deep-learning-for-coders) `beginner`
-   + 🧔 📺 [Heroes of Deep learning](#heroes-of-deep-learning) `intermediate`
+   + 📺 [Heroes of Deep learning](#heroes-of-deep-learning) `intermediate`
+   + 📺 [Introduction to Deep Learning MIT](#introduction-to-deep-learning-mit) `beginner`
 4. [Natural Language Processing](#natural-language-processing)
    + 📺 [A Code-First Introduction to NLP](#a-code-first-introduction-to-nlp) `intermediate` 
 5. [Philosophy of Mind](#philosophy-of-mind)
@@ -88,9 +89,14 @@ Distill opens a venue for publications in ML that take advantage of all the reso
 This is a course on Deep Learning that follows a non-traditional approach to the subject, deemed more suitable for coders or less mathematically-inclined people. It starts by giving you the tools to build models right away instead of making you go through a lot of theory and concepts before you can see a model in action. Once you've gained a high-level appreciation of Deep Learning, it then gradually unveils more and more details of the underlying machinery building up to a full nuts-and-bolts understanding of the subject.
 
 #### [Heroes of Deep Learning](https://youtube.com/playlist?list=PLkDaE6sCZn6FcbHlDzbVzf3TVgxzxK7lr)
-🧔 📺 by [Deep Learning AI](https://www.deeplearning.ai/) (2017)
+📺 by [Deep Learning AI](https://www.deeplearning.ai/) (2017)
 
 A series of relatively short interviews by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) with various leading researchers in the field of machine learning. This is not really a technical resource, but I think it's interesting to hear the stories on how they got started, what ideas they've pursued and are currently pursuing, as well as their thoughts on current AI/ML trends and research.
+
+#### [Introduction to Deep Learning MIT](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+📺 by [MIT 6.S191](http://introtodeeplearning.com/) (2021)
+
+An introductory series of lectures on Deep Learning. Even though it doesn't assume much prior knowledge on ML, it covers a lot of ground but without going into deep detail. Emphasis is put on real-world applications and presentation of high-level ideas, models and techniques (including its limitations), going from the classic all the way to the state of the art. Think of it as a very well-designed, comprehensive tour of modern Deep Learning, which can serve as a map for you to go out and explore in much more detail whatever grabs your attention.
 
 [🔙 to Contents](#contents)
 
