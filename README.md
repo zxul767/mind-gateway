@@ -25,6 +25,8 @@ Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
    + 📖 [The Society of Mind](#the-society-of-mind) `layperson`
    + 📖 [I Am a Strange Loop](#i-am-a-strange-loop) `layperson`
    + 📺 [Closer to Truth](#closer-to-truth) `layperson`
+6. [Appendix](#appendix)
+   + :electron: 📖 [Free Online Library](#free-online-library) 
 
 ## Artificial Intelligence
 #### [On Intelligence](https://en.wikipedia.org/wiki/On_Intelligence) 
@@ -130,3 +132,9 @@ Although "Gödel, Escher, Bach" (a.k.a. GEB) enjoyed great success--having even 
 A series of interviews on the Cosmos, Consciousness and Meaning. It features leading philosophers and scientists exploring humanity's deepest questions. While its scope is not entirely in the realm of AI/ML or PoM, it does touch upon PoM and neuroscience in many of its episodes (e.g., the interviews with Marvin Minsky on brains and the nature of intelligence are quite interesting.)
 
 [🔙 to Contents](#contents)
+
+## Appendix
+#### [Free Online Library](https://archive.org/details/inlibrary)
+:electron: 📖 by [Internet Archive](https://archive.org/)
+
+A great resource to access books that are very expensive or difficult to acquire through other channels. It features a vast collection of books from many disciplines. They can be accessed online (and in some cases downloaded) for up to two weeks at a time. It's also a great resource to decide if a book is worth buying.
