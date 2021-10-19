@@ -2,11 +2,11 @@
 Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philosophy of Mind (PoM), and related topics.
 
 ## Contents
-1. [Artificial Intelligence](#artificial-intelligence)
++ [Artificial Intelligence](#artificial-intelligence)
    + 📖 [On Intelligence](#on-intelligence) `layperson`
    + 💯 📺 [MIT Artificial Intelligence](#mit-artificial-intelligence) `beginner`
    + 📺 [The AI Podcast](#the-ai-podcast) `layperson`
-2. [General Machine Learning](#general-machine-learning)
++ [General Machine Learning](#general-machine-learning)
    + 💯 📺 📖 [Learning from Data](#learning-from-data) `intermediate`
    + 📖 [Mathematics for Machine Learning](#mathematics-for-machine-learning) `intermediate`
    + 📖 [An Introduction to Statistical Learning](#an-introduction-to-statistical-learning) `intermediate`
@@ -14,18 +14,18 @@ Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
    + 📰 [Papers with Code](#papers-with-code)
    + 📰 [Papers Daily](#papers-daily)
    + 💯 📰 [Distill](#distill) `beginner`/`intermediate`
-3. [Deep Learning](#deep-learning)
++ [Deep Learning](#deep-learning)
    + 💯 📺 📖 [Deep Learning for Coders](#deep-learning-for-coders) `beginner`
    + 📺 [Heroes of Deep learning](#heroes-of-deep-learning) `intermediate`
    + 💯 📺 [Introduction to Deep Learning MIT](#introduction-to-deep-learning-mit) `beginner`
-4. [Natural Language Processing](#natural-language-processing)
++ [Natural Language Processing](#natural-language-processing)
    + 📺 [A Code-First Introduction to NLP](#a-code-first-introduction-to-nlp) `intermediate` 
-5. [Philosophy of Mind](#philosophy-of-mind)
++ [Philosophy of Mind](#philosophy-of-mind)
    + 💯 📖 [Gödel, Escher, Bach -- an Eternal Golden Braid](#gödel-escher-bach----an-eternal-golden-braid) `layperson`
    + 📖 [The Society of Mind](#the-society-of-mind) `layperson`
    + 📖 [I Am a Strange Loop](#i-am-a-strange-loop) `layperson`
    + 📺 [Closer to Truth](#closer-to-truth) `layperson`
-6. [Appendix](#appendix)
++ [Appendix](#appendix)
    + :electron: 📖 [Free Online Library](#free-online-library) 
 
 ## Artificial Intelligence
@@ -138,3 +138,5 @@ A series of interviews on the Cosmos, Consciousness and Meaning. It features lea
 :electron: 📖 by [Internet Archive](https://archive.org/)
 
 A great resource to access books that are very expensive or difficult to acquire through other channels. It features a vast collection of books from many disciplines. They can be accessed online (and in some cases downloaded) for up to two weeks at a time. It's also a great resource to decide if a book is worth buying.
+
+[🔙 to Contents](#contents)
