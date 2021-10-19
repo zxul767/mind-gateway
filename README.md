@@ -4,6 +4,7 @@ Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
 ## Contents
 + [Artificial Intelligence](#artificial-intelligence)
    + 📖 [On Intelligence](#on-intelligence) `layperson`
+   + 📖 [AI: A Guide for Thinking Humans](#ai-a-guide-for-thinking-humans) `layperson`
    + 💯 📺 [MIT Artificial Intelligence](#mit-artificial-intelligence) `beginner`
    + 📺 [The AI Podcast](#the-ai-podcast) `layperson`
 + [General Machine Learning](#general-machine-learning)
@@ -33,6 +34,11 @@ Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
 📖 by [Jeff Hawkins](https://en.wikipedia.org/wiki/Jeff_Hawkins) (2005)
 
 The book explains why previous attempts at understanding intelligence and building intelligent machines have failed. It then introduces and develops the core idea of a proposed theory for how the human neocortex generates intelligent behavior, which the author calls the memory-prediction framework.
+
+#### [AI: A Guide for Thinking Humans](https://www.goodreads.com/book/show/43565360-artificial-intelligence) 
+📖 by [Melanie Mitchell](https://melaniemitchell.me/) (2019)
+
+The book is a quick but detailed tour for the layperson who's curious and intrigued by Artificial Intelligence. The author takes a critical look at some of the most important developments in the last decade, delving into enough detail to expose the limitations that are often overlooked in popular science publications. The author also reflects on what is missing in state-of-the-art AI technologies that prevents them from potentially achieving human-level intelligence. An important read to dispel myths and see beyond the hype that's been prevalent in many circles around AI.
 
 #### [MIT Artificial Intelligence](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 💯 📺 by [Patrick Winston](https://en.wikipedia.org/wiki/Patrick_Winston) (2010)
