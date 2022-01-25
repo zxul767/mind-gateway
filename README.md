@@ -4,6 +4,7 @@ Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
 ## Contents
 + [Artificial Intelligence](#artificial-intelligence)
    + 📖 [On Intelligence](#on-intelligence) `layperson`
+   + 📖 [A Thousand Brains Theory](#a-thousand-brains-theory) `layperson`
    + 📖 [AI: A Guide for Thinking Humans](#ai-a-guide-for-thinking-humans) `layperson`
    + 💯 📺 [MIT Artificial Intelligence](#mit-artificial-intelligence) `beginner`
    + 📺 [The AI Podcast](#the-ai-podcast) `layperson`
@@ -34,6 +35,17 @@ Curated resources on Artifical Intelligence (AI), Machine Learning (ML), Philoso
 📖 by [Jeff Hawkins](https://en.wikipedia.org/wiki/Jeff_Hawkins) (2005)
 
 The book explains why previous attempts at understanding intelligence and building intelligent machines have failed. It then introduces and develops the core idea of a proposed theory for how the human neocortex generates intelligent behavior, which the author calls the memory-prediction framework.
+
+#### [A Thousand Brains Theory](https://numenta.com/a-thousand-brains-by-jeff-hawkins) 
+📖 by [Jeff Hawkins](https://en.wikipedia.org;/wiki/Jeff_Hawkins) (2021)
+
+Unlike his previous book "On Intelligence" where a lot of detail is given to explain the theory presented, this book spends significantly less space to do that (only about a third of the book deals directly with it, and a good chunk of it is rephrasing of ideas in "On Intelligence"). Instead, it refers interested readers to the scientific papers written by the author and his colleagues at [Numenta](https://numenta.com/). However, here are the three major ideas that the book introduces:
+
++ The brain learns models of the world to be able to solve problems.
++ The brain learns not one but thousands of such models (e.g., a single object has not one but dozens of complementary models and uses a voting mechanism to unify their predictions into a single one.)
++ The brain uses "reference frames" to build such models. Both tangible and intangible objects are learned using reference frames.
+
+Similarly to "On Intelligence", the book is very well written for a lay audience, and provides enough examples and explanations for the core ideas. If you're looking for more concrete details, you'll definitely need to read the scientific papers and other referenced material in the book.
 
 #### [AI: A Guide for Thinking Humans](https://www.goodreads.com/book/show/43565360-artificial-intelligence) 
 📖 by [Melanie Mitchell](https://melaniemitchell.me/) (2019)
