@@ -132,7 +132,7 @@ From the creators of [Deep Learning for Coders](https://course.fast.ai/), this c
 #### [Gödel, Escher, Bach -- an Eternal Golden Braid](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) 
 💯 📖 by [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter) (1979)
 
-The book discusses how systems can acquire meaningful context despite being made of "meaningless" elements. It also discusses self-reference and formal rules, isomorphism, what it means to communicate, how knowledge can be represented and stored, the methods and limitations of symbolic representation, and even the fundamental notion of "meaning" itself.
+The book discusses how it is that animate beings can come out of inanimate matter; what is a self, and how can a self come out of stuff that is as selfless as a stone or a puddle. It also discusses self-reference and formal rules, isomorphism, what it means to communicate, how knowledge can be represented and stored, the methods and limitations of symbolic representation, and even the fundamental notion of "meaning" itself.
 
 #### [The Society of Mind](https://en.wikipedia.org/wiki/Society_of_Mind)
 📖 by [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky) (1986)
